@@ -5,7 +5,6 @@ This program is a Julia script that presents handy morning information such as:
 - Days since the year started
 - Actual Date (WIP)
 - Weather
-- Tea recommender (WIP)
 - Calendar? (WIP)
 - Joke of the Day (WIP)
 - Top News Stories (WIP)
