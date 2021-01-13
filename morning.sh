@@ -5,10 +5,10 @@ using PyCall
 
 @pyimport pyowm
 
-cityName = "charlotte"
-countryName = "usa"
+cityName = ""
+countryName = ""
 
-owm = pyowm.OWM("d06e4a0c6d304d44be567dd5ae91ca43")
+owm = pyowm.OWM("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 wman = owm.weather_manager()
 
 function getWeather(city, country)
