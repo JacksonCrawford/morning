@@ -31,6 +31,6 @@ Now, in order for the weather to be correct, you must enter your city and countr
 
 Now just save your changes and exit your editor, and return to the terminal and run the following:
 
-```./morning.jl```
+```./morning.sh```
 
 This should have everything displayed! Enjoy!
