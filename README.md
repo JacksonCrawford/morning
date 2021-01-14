@@ -3,7 +3,7 @@
 This program is a Julia script that presents handy morning information such as:
 
 - Days since the year started
-- Actual Date (WIP)
+- Actual Date
 - Weather
 - Calendar? (WIP)
 - Joke of the Day (WIP)
